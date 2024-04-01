@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_can_not_be_null_or_empty">Email can not be null or empty</string>
+    <string name="email_is_not_valid">Email is not valid</string>
+    <string name="password_can_not_be_null_or_empty">Password can not be null or empty</string>
+    <string name="password_should_be_at_least_of_6_chars">Password should be at least of 6 chars</string>
+    <string name="password_can_not_be_more_that_30_characters">Password can not be more that 30 characters</string>
+    <string name="please_create_password_with_upper_case_lower_case_digit_and_special_characters">"Please create password with Upper case, Lower case, Digit and Special Characters "</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="search">Search</string>
+    <string name="product_image_content">Product Image</string>
+</resources>

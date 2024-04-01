@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_not_blanks">Blank fields are not allowed</string>
+    <string name="prompt_email">Please enter email</string>
+    <string name="prompt_password">Please enter password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="don_t_have_account">You do not have an account</string>
+</resources>

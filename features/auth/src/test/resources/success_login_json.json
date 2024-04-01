@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "username": "hbingley1",
+  "email": "hbingley1@plala.or.jp",
+  "firstName": "Sheldon",
+  "lastName": "Quigley",
+  "gender": "male",
+  "image": "https://robohash.org/Sheldon.png?set=set4",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJoYmluZ2xleTEiLCJlbWFpbCI6ImhiaW5nbGV5MUBwbGFsYS5vci5qcCIsImZpcnN0TmFtZSI6IlNoZWxkb24iLCJsYXN0TmFtZSI6IlF1aWdsZXkiLCJnZW5kZXIiOiJtYWxlIiwiaW1hZ2UiOiJodHRwczovL3JvYm9oYXNoLm9yZy9TaGVsZG9uLnBuZz9zZXQ9c2V0NCIsImlhdCI6MTcxMTg4OTg4NSwiZXhwIjoxNzExODkzNDg1fQ.nIX7i_XVrEDg-lvM5MRi9mcOoOa7SS_21IHNXzoJnr4"
+}
